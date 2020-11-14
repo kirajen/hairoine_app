@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1073411458512",
+    "firebase_url": "https://hairoines-journey.firebaseio.com",
+    "project_id": "hairoines-journey",
+    "storage_bucket": "hairoines-journey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073411458512:android:d62a9e49cbee637383a5d5",
+        "android_client_info": {
+          "package_name": "hairoineapp.hairoine_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073411458512-s31le2t4uutsqn7u4oqae8aklb354no8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy7_ffpb9SAl6plo7iq-bYUSi4QHXcopA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073411458512-s31le2t4uutsqn7u4oqae8aklb354no8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
